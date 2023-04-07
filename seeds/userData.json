@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Sam Cooke",
+      "email": "samcooke@gmail.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Jack Johnson",
+      "email": "JackJohnson@gmail.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Kip Smithers",
+      "email": "Ksmithers@gmail.com",
+      "password": "password12345"
+    }
+  ]
+  
